@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="569.0" prefWidth="479.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.comp1008summer2023thrusdays8amgui.">
+   <children>
+      <Rectangle arcHeight="10.0" arcWidth="5.0" height="490.0" layoutX="38.0" layoutY="36.0" stroke="BLACK" strokeType="INSIDE" width="407.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="85.0" layoutX="54.0" layoutY="424.0" stroke="BLACK" strokeType="INSIDE" width="85.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="85.0" layoutX="146.0" layoutY="424.0" stroke="BLACK" strokeType="INSIDE" width="85.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#15a115" height="85.0" layoutX="242.0" layoutY="425.0" stroke="BLACK" strokeType="INSIDE" width="85.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d7931d" height="85.0" layoutX="340.0" layoutY="424.0" stroke="BLACK" strokeType="INSIDE" width="85.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="55.0" layoutY="333.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="147.0" layoutY="333.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="243.0" layoutY="334.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d7931d" height="83.0" layoutX="343.0" layoutY="333.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="55.0" layoutY="244.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="146.0" layoutY="244.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="243.0" layoutY="243.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d7931d" height="83.0" layoutX="342.0" layoutY="243.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="55.0" layoutY="152.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="147.0" layoutY="152.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#aaaaaa" height="83.0" layoutX="243.0" layoutY="152.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#d7931d" height="83.0" layoutX="342.0" layoutY="152.0" stroke="BLACK" strokeType="INSIDE" width="83.0" />
+      <Label alignment="CENTER_RIGHT" layoutX="254.0" layoutY="67.0" prefHeight="65.0" prefWidth="122.0" text="3.142" textAlignment="RIGHT" textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="164.0" layoutY="434.0" text=".">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="85.0" layoutY="441.0" style="-fx-font-weight: bold; -fx-font-family: sans-serif;" text="0">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="85.0" layoutY="349.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="1">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="176.0" layoutY="349.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="2">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="272.0" layoutY="350.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="3">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="85.0" layoutY="260.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="4">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="176.0" layoutY="260.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="5">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="272.0" layoutY="260.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="6">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="85.0" layoutY="168.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="7">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="176.0" layoutY="168.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="8">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="272.0" layoutY="168.0" style="-fx-font-family: sans-serif; -fx-font-weight: bold;" text="9">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="269.0" layoutY="434.0" text="=" textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="374.0" layoutY="434.0" text="+" textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="376.0" layoutY="342.0" text="-" textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="374.0" layoutY="248.0" prefHeight="77.0" prefWidth="31.0" text="-" textFill="WHITE">
+         <font>
+            <Font size="53.0" />
+         </font>
+      </Label>
+      <Label layoutX="373.0" layoutY="164.0" text="x" textFill="WHITE">
+         <font>
+            <Font size="41.0" />
+         </font>
+      </Label>
+      <Label layoutX="379.0" layoutY="235.0" prefHeight="48.0" prefWidth="10.0" text="." textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+      <Label layoutX="379.0" layoutY="254.0" prefHeight="48.0" prefWidth="10.0" text="." textFill="WHITE">
+         <font>
+            <Font size="44.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
